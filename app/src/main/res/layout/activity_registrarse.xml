@@ -57,7 +57,7 @@
         app:layout_constraintRight_toRightOf="parent"/>
 
     <Button
-        android:id="@+id/registrarse"
+        android:id="@+id/btnregistrarse"
         android:layout_width="250dp"
         android:textColor="@color/white"
         android:background="#000"
