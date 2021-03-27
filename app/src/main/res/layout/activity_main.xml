@@ -52,6 +52,16 @@
         android:background="@color/white"
         android:textColor="@color/black"
         android:text="Iniciar Sesión" />
+    <Button
+        android:id="@+id/registrarse"
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:text="Registrarse" />
+
 <androidx.appcompat.widget.LinearLayoutCompat
     android:layout_width="match_parent"
     android:layout_height="match_parent"

@@ -9,8 +9,6 @@ class RegistrarseActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState) //llama al metodo para crear
         setContentView(R.layout.activity_registrarse) //seteame este layout como la vista del
                                                        //del activity
-        btnregistrarse.setOnClickListener{ //Llama a la función del boton
-            val intent = Intent(this, RegistrarseActivity::class.java)
-        }
+      
     }
 }
